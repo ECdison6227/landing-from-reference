@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考录屏制作 Landing"
+  short_description: "拆解参考站版式与动效，结合产品真实组件制作落地页并验收交付"
+  default_prompt: "请使用 $landing-from-reference，结合我提供的产品代码和参考录屏重新设计 Landing 页面，先给我本地预览。"
